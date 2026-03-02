@@ -10,7 +10,7 @@ This template also comes with `CLAUDE.md` and `.cursor/rules` files for easy int
 
 ## Preview
 
-To view a live preview of the site, [click here](https://github.com/jtran2367/mpacmportfolio.git).
+To view a live preview of the site, [click here](https://jtran2367.github.io/mpacmportfolio/).
 
 ## Built With
 
