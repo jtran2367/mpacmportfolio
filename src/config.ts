@@ -1,92 +1,71 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "John Tran",
+  title: "CIS-Tech Student @ UTD",
+  description: "Welcome to my portfolio website! This is my first portfolio website built from a template with React and TypeScript. Here, you can find information about my skills, projects, experience, and education.",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "jht230001@utdallas.edu",
+    linkedin: "https://www.linkedin.com/in/john-ttran/",
+    github: "https://github.com/jtran2367",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Hi! My name is John Tran. I am currently a student at The University of Texas at Dallas, majoring in Computer Information Systems and Technology (CIS-Tech) through the Naveen Jindal School of Management. As I progress through my college journey, I am eager to explore the world of technology and build a strong foundation in IT, cybersecurity, and data analytics.   Outside of academics, I stay actively involved in sports such as soccer, basketball, flag football, and ultimate frisbee. I also volunteer as a youth leader for Doan Emmanuel, a VEYM chapter in Garland, TX. The lessons and memories I’ve gained from both of these experiences have been deeply meaningful, contributing to my personal growth and shaping who I am today.  I look forward to learning from industry professionals and mentors, expanding my knowledge through hands-on projects, and contributing to a secure, tech- driven future.",
+  languages: ["Python", "SQL"],
+  tools: ["Microsoft Excel", "Tableau", "Alteryx Designer Cloud", "VS Code", "MySQL Workbench", "Git/GitHu", "Jupyter Notebook"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "",
+      link: "",
+      skills: [""],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "",
+      link: "",
+      skills: [""],
     },
     {
-      name: "ExtensionKit",
+      name: "",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "",
+      link: "",
+      skills: [""],
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Our Mother of Perpetual Help Parish IT Committee",
+      title: "IT Support Assistant",
+      dateRange: "Oct 2025 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Gained hands-on experience with Windows Server (Active Directory), DNS/DHCP, wireless networking fundamentals",
+        "Supported classroom and facility AV systems, ensuring reliable technical operations for live environments",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Jupiter China",
+      title: "Restuaurant Crew Member",
+      dateRange: "May 2024 - Present",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Served 50+ guests per shift, utilizing POS systems and order management systems to streamline service",
+        "Coordinated large group reservations (10+ guests), improving service efficiency and timely delivery by 20",
+        "Managed inventory of supplies and food materials, reducing out-of-stock items by 15%",
       ],
     },
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "University of Texas at Dallas",
+      degree: "Bachelor of Science in Computer Information Systems and Technology",
+      dateRange: "2024 - 2027",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Academic Excellence Scholarship recipient",
       ],
     },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+      
       ],
-    },
-  ],
 };
+
