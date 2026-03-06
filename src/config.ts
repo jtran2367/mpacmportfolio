@@ -11,7 +11,8 @@ export const siteConfig = {
   aboutMe:
     "Hi! My name is John Tran. I am currently a student at The University of Texas at Dallas, majoring in Computer Information Systems and Technology (CIS-Tech) through the Naveen Jindal School of Management. As I progress through my college journey, I am eager to explore the world of technology and build a strong foundation in IT, cybersecurity, and data analytics.   Outside of academics, I stay actively involved in sports such as soccer, basketball, flag football, and ultimate frisbee. I also volunteer as a youth leader for Doan Emmanuel, a VEYM chapter in Garland, TX. The lessons and memories I’ve gained from both of these experiences have been deeply meaningful, contributing to my personal growth and shaping who I am today.  I look forward to learning from industry professionals and mentors, expanding my knowledge through hands-on projects, and contributing to a secure, tech- driven future.",
   languages: ["Python", "SQL"],
-  tools: ["Microsoft Excel", "Tableau", "Alteryx Designer Cloud", "VS Code", "MySQL Workbench", "Git/GitHu", "Jupyter Notebook"],
+  tools: ["Microsoft Excel", "Tableau", "Alteryx Designer Cloud", "VS Code", "MySQL Workbench", "Git/GitHub", "Jupyter Notebook"],
+  skills: ["Python", "SQL", "Microsoft Excel", "Tableau", "Alteryx Designer Cloud", "VS Code", "MySQL Workbench", "Git/GitHub", "Jupyter Notebook"],
   projects: [
     {
       name: "",
@@ -65,7 +66,6 @@ export const siteConfig = {
         "Academic Excellence Scholarship recipient",
       ],
     },
-      
-      ],
+  ],
 };
 
